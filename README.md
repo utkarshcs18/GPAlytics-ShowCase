@@ -1,2 +1,48 @@
-# Gpalytics-ShowCase
-GPAlytics ShowCase- Web-based SGPA and CGPA calculator using C++ and HTML and CSS.
+# Gpalytics-ShowCase.
+
+## 📊 GPAlytics — Your Academic Score Analyzer
+
+**GPAlytics** is a user-friendly and responsive web app that helps you calculate:
+- ✅ **Percentage**
+- 📘 **SGPA (Semester Grade Point Average)**
+- 🎓 **CGPA (Cumulative Grade Point Average)**
+
+Designed for students and academic enthusiasts, it's fast, easy to use, and works on any device!
+
+---
+
+## 🌟 Features
+
+- 🎨 Sleek, responsive UI built with **HTML, CSS, and JS**
+- ⚙️ Accurate backend logic using **Flask (Python)**
+- 🔢 Instant calculation of **Percentage**, **SGPA**, and **CGPA**
+- 💻 Lightweight and easy to run locally
+- 📱 Mobile-friendly layout
+
+---
+
+## 🛠️ Tech Stack
+
+| Frontend | Backend  | Framework  |
+|----------|----------|------------|
+| HTML     | Python   | Flask      |
+| CSS      |          |            |
+| JavaScr. |          |            |
+
+---
+
+🚀 Future Plans(Maybe)
+
+- Dark mode toggle 🌑
+- GPA history log 📈
+- PDF report download 🧾
+- Login system for multiple users 🔐
+- 
+---
+
+🤝 Contributing
+
+Pull requests are welcome!
+If you have ideas, suggestions, or bug reports — feel free to open an issue.
+
+---
