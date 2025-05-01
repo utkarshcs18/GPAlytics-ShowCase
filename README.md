@@ -47,10 +47,10 @@ If you have ideas, suggestions, or bug reports — feel free to open an issue.
 
 For any questions, reach me at:
 
-<p align="center">
+<p>
   <strong>Email:</strong> <a href="mailto:utkarshkumar.cs18@gmail.com"></a>
 </p>    
-<p align="center">
+<p>
   <strong>Email:</strong> <a href="mailto:sumitdkv@gmail.com"></a>
 </p>
 ---
