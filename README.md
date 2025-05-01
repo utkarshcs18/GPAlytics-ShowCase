@@ -37,7 +37,7 @@ Designed for students and academic enthusiasts, it's fast, easy to use, and work
 - GPA history log 📈
 - PDF report download 🧾
 - Login system for multiple users 🔐
-- 
+  
 ---
 
 🤝 Contributing
