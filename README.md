@@ -50,7 +50,7 @@ For any questions, reach us at:
 <p>
   <strong>Email:</strong> <a href="mailto:utkarshkumar.cs18@gmail.com"> Utkarsh </a>
 </p>
-📧 [Utkarsh](mailto:utkarshkumar.cs18@gmail.com)
+📧 [utkarshkumar.cs18@gmail.com](Utkarsh)
 
 <p>
   
