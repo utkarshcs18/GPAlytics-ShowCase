@@ -45,6 +45,9 @@ Designed for students and academic enthusiasts, it's fast, easy to use, and work
 Pull requests are welcome!
 If you have ideas, suggestions, or bug reports — feel free to open an issue.
 
+mail: utkarshkumar.cs18@gmail.com
+      sumitdkv@gmail.com
+
 ---
 
 ## 📦 Just Visit
