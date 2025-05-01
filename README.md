@@ -45,12 +45,15 @@ Designed for students and academic enthusiasts, it's fast, easy to use, and work
 Pull requests are welcome!
 If you have ideas, suggestions, or bug reports — feel free to open an issue.
 
-For any questions, reach me at:
+For any questions, reach us at:
 
 <p>
   <strong>Email:</strong> <a href="mailto:utkarshkumar.cs18@gmail.com"> Utkarsh </a>
-</p>    
+</p>
+📧 [Utkarsh](mailto:utkarshkumar.cs18@gmail.com)
+
 <p>
+  
   <strong>Email:</strong> <a href="mailto:sumitdkv@gmail.com"> Sumit </a>
 </p>
 ---
