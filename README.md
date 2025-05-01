@@ -47,8 +47,12 @@ If you have ideas, suggestions, or bug reports — feel free to open an issue.
 
 For any questions, reach me at:
 
-**Email:** -  [utkarshkumar.cs18@gmail.com]
-           -  [sumitdkv@gmail.com]
+<p align="center">
+  <strong>Email:</strong> <a href="mailto:utkarshkumar.cs18@gmail.com"></a>
+</p>    
+<p align="center">
+  <strong>Email:</strong> <a href="mailto:sumitdkv@gmail.com"></a>
+</p>
 ---
 
 ## 📦 Just Visit
