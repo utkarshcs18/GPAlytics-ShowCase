@@ -48,10 +48,10 @@ If you have ideas, suggestions, or bug reports — feel free to open an issue.
 For any questions, reach me at:
 
 <p>
-  <strong>Email:</strong> <a href="mailto:utkarshkumar.cs18@gmail.com"></a>
+  <strong>Email:</strong> <a href="mailto:utkarshkumar.cs18@gmail.com"> Utkarsh </a>
 </p>    
 <p>
-  <strong>Email:</strong> <a href="mailto:sumitdkv@gmail.com"></a>
+  <strong>Email:</strong> <a href="mailto:sumitdkv@gmail.com"> Sumit </a>
 </p>
 ---
 
