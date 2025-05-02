@@ -27,7 +27,7 @@ Designed for students and academic enthusiasts, it's fast, easy to use, and work
 |----------|----------|------------|
 | HTML     | Python   | Flask      |
 | CSS      |JavaScri. |            |
-|          |          |            |
+
 
 ---
 
