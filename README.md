@@ -31,7 +31,7 @@ Designed for students and academic enthusiasts, it's fast, easy to use, and work
 
 ---
 
-🚀 Future Plans(Maybe)
+## 🚀 Future Plans(Maybe)
 
 - Dark mode toggle 🌑
 - GPA history log 📈
@@ -40,7 +40,7 @@ Designed for students and academic enthusiasts, it's fast, easy to use, and work
   
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 
 Pull requests are welcome!
 If you have ideas, suggestions, or bug reports — feel free to open an issue.
@@ -59,7 +59,7 @@ For any questions, reach us at:
   
    -: https://gp-alytics.vercel.app/
 
----
+
 
 ### ✅ Prerequisites(if intrested)
 
