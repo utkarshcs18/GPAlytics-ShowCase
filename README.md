@@ -58,7 +58,7 @@ For any questions, reach us at:
 
 ## 📦 Just Visit
   
-   -: gp-alytics.vercel.app/
+   -: https://gp-alytics.vercel.app/
 
 ---
 
