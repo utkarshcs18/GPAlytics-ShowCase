@@ -26,8 +26,8 @@ Designed for students and academic enthusiasts, it's fast, easy to use, and work
 | Frontend | Backend  | Framework  |
 |----------|----------|------------|
 | HTML     | Python   | Flask      |
-| CSS      |          |            |
-| JavaScr. |          |            |
+| CSS      |JavaScri. |            |
+|          |          |            |
 
 ---
 
