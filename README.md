@@ -1,8 +1,8 @@
 # Gpalytics-ShowCase.
 
 ## 📊 GPAlytics — Your Academic Score Analyzer
-
-**GPAlytics** is a user-friendly and responsive web app that helps you calculate:
+                  
+**GPAlytics** is a calculator which is user-friendly and responsive web app that helps you to calculate your:
 - ✅ **Percentage**
 - 📘 **SGPA (Semester Grade Point Average)**
 - 🎓 **CGPA (Cumulative Grade Point Average)**
