@@ -58,7 +58,12 @@ For any questions, reach us at:
 
 ## 📦 Just Visit
   
-   -: https://gp-alytics.vercel.app/
+  <a href="https://gp-alytics.vercel.app/">
+<img src="https://github.com/utkarshcs18/GPAlytics-ShowCase/blob/main/logo.jpg"
+       length="40"
+       width="110"
+       style="vertical-align: middle;"/>
+</a>  
 
 ---
 
