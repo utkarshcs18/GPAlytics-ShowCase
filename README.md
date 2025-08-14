@@ -42,10 +42,9 @@ Designed for students and academic enthusiasts, it's fast, easy to use, and work
 
 ## 🤝 Contributing
 
-Pull requests are welcome!
-If you have ideas, suggestions, or bug reports — feel free to open an issue.
-
-For any questions, reach us at:
+Have a cool idea or improvement?
+Pull requests are warmly welcomed!
+Just drop me an email to get started.
 
 [![Gmail](https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarshkumar.cs18@gmail.com?subject=Excited%20to%20Connect!&body=Hey%20there!%0AI%20came%20across%20your%20profile%20and%20would%20love%20to%20connect%20and%20talk%20about%20.%20.%20..">)
 
